@@ -10,7 +10,7 @@ When the robot is launched we can teleop around the room to generate a proper ma
 
 **Link to Youtube video:** https://www.youtube.com/watch?v=KCiHrqqdnSg
 
-<img width="1728" alt="RTAB-Map-Database-Viewer" src="https://user-images.githubusercontent.com/3985351/164980294-8c7da44c-f686-432d-8935-6f586da9ea6f.png">
+<img width="1728" alt="Screen Shot 2022-04-25 at 1 25 26 AM" src="https://user-images.githubusercontent.com/3985351/164994196-14ed0664-82b0-4a6d-8ba2-df998490ba31.png">
 
 This project was done as part of the Robotics Software Engineer Nanodegree.
 
