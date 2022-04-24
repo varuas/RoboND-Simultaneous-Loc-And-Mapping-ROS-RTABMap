@@ -1,4 +1,4 @@
-# RoboND-Map-My-World
+# RoboND-Simultaneous-Localization-And-Mapping-ROS-RTAB-Map
 
 This project involves the creation of a 2D occupancy grid and a 3D octomap from a simulated environment using ROS and RTAB-Map. It is a POC to explore how to do Simulataneous Localization and Mapping (SLAM) in ROS.
 
@@ -11,6 +11,8 @@ When the robot is launched we can teleop around the room to generate a proper ma
 **Link to Youtube video:** https://www.youtube.com/watch?v=KCiHrqqdnSg
 
 <img width="1728" alt="RTAB-Map-Database-Viewer" src="https://user-images.githubusercontent.com/3985351/164980294-8c7da44c-f686-432d-8935-6f586da9ea6f.png">
+
+This project was done as part of the Robotics Software Engineer Nanodegree.
 
 ### Description of the robot
 
