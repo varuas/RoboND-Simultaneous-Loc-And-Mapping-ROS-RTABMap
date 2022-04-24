@@ -1,4 +1,4 @@
-# RoboND-Simultaneous-Localization-And-Mapping-ROS-RTAB-Map
+# RoboND: Simultaneous Localization and Mapping (SLAM) using ROS and RTAB-Map
 
 This project involves the creation of a 2D occupancy grid and a 3D octomap from a simulated environment using ROS and RTAB-Map. It is a POC to explore how to do Simulataneous Localization and Mapping (SLAM) in ROS.
 
