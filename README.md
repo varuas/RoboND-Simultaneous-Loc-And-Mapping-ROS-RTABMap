@@ -8,6 +8,8 @@ This project uses the rtabmap_ros package, which is a ROS wrapper (API) for inte
 
 When the robot is launched we can teleop around the room to generate a proper map of the environment.
 
+<img width="1728" alt="RTAB-Map-Database-Viewer" src="https://user-images.githubusercontent.com/3985351/164980294-8c7da44c-f686-432d-8935-6f586da9ea6f.png">
+
 ### Description of the robot
 
 The robot is a simulated differential drive robot created via URDF having the following sensors:
